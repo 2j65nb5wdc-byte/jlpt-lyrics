@@ -1,0 +1,4 @@
+interface:
+  display_name: "JLPT Lyrics Lesson"
+  short_description: "Build Japanese lyric study handouts and JLPT-style drills."
+  default_prompt: "Use $jlpt-lyrics-lesson to turn Japanese lyrics into a DOCX study handout and JLPT-style training worksheet."
